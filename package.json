@@ -1,0 +1,20 @@
+{
+  "name": "random_number_generator_code",
+  "version": "1.0.0",
+  "description": "Random Number Generator",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeparna4/Random-Number-Generator-Code.git"
+  },
+  "author": "Deeparna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deeparna4/Random-Number-Generator-Code/issues"
+  },
+  "homepage": "https://github.com/Deeparna4/Random-Number-Generator-Code#readme"
+}
